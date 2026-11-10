@@ -1,4 +1,4 @@
-# 📱 MDM Device Inventory and Security Assessment
+# MDM Device Inventory and Security Assessment
 
 ## 1. Project Overview
 
