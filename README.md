@@ -47,9 +47,57 @@ Sensitive information, enrollment tokens, QR codes and personal identifiers will
 
 ## Project Status
 
-**Current Stage:** Preparation and documentation.
+**Current Stage:Current Stage: MDM Environment Setup, Android Device Enrollment and Initial Security Configuration.
 
-Practical enrollment and configuration results will be added as the experiments are completed.
+Completed Activities
+
+Completed initial MDM research and project documentation.
+
+Set up the ManageEngine Mobile Device Manager Plus environment.
+
+Installed and accessed ManageEngine MDM Self Service on the Android device.
+
+Successfully enrolled the Infinix Note 30 Pro (Android 14).
+
+Created a device group and added the enrolled Infinix device.
+
+Created and published an Android passcode security profile.
+
+Configured a minimum password length of 8 characters.
+
+Explored password complexity settings (Low, Medium and High).
+
+Identified available device inventory and monitoring fields.
+
+Began documenting mobile security policies and practical observations.
+
+In Progress
+
+Verifying security profile association and deployment.
+
+Testing screen-lock and password policy enforcement.
+
+Exploring device compliance monitoring.
+
+Investigating Android Enterprise Work Profile security.
+
+Capturing practical screenshots and documenting test results.
+
+Upcoming Activities
+
+Implement Android Enterprise Work Profile.
+
+Explore Mobile Application Management (MAM).
+
+Test managed application distribution and restrictions.
+
+Examine corporate data protection and BYOD security controls.
+
+Complete practical security testing and document findings.
+
+Project Progression: Research → MDM Setup → Device Enrollment → Device Grouping → Security Profile Configuration → Device Inventory → Policy Verification → MAM Implementation.
+
+The project remains ongoing, with emphasis on practical implementation, evidence collection, and understanding how enterprise mobile security controls work in real-world environments.
 
 ## Learning Outcomes
 
