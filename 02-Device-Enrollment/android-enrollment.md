@@ -34,10 +34,19 @@ To enroll my Infinix Note 30 Pro into ManageEngine MDM using Android Enterprise 
 
 The following screenshots will be used to demonstrate the practical implementation:
 
-- Screenshot 1: ManageEngine enrollment QR code (if safely redacted).
-- Screenshot 2: Android Work Profile creation prompt.
-- Screenshot 3: Successful device enrollment on the ManageEngine dashboard.
-- Screenshot 4: Android Work Profile visible on the mobile device.
+## Evidence
+
+### 1. Android Enrollment QR Code
+![Android Enrollment QR Code](02-Screenshots/01-enrollment-qr.png)
+
+### 2. Work Profile Creation
+![Android Work Profile Creation](Screenshots/02-work-profile-creation.png)
+
+### 3. Successful Device Enrollment
+![Successful Device Enrollment](Screenshots/03-successful-enrollment.png)
+
+### 4. Android Work Profile Applications
+![Android Work Profile Applications](Screenshots/04-work-profile-apps.png)
 
 ## Result
 
