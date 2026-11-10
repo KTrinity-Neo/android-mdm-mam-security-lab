@@ -40,13 +40,13 @@ The following screenshots will be used to demonstrate the practical implementati
 ![Android Enrollment QR Code](02-Screenshots/01-enrollment-qr.png)
 
 ### 2. Work Profile Creation
-![Android Work Profile Creation](Screenshots/02-work-profile-creation.png)
+![Android Work Profile Creation](02-Screenshots/02-work-profile-creation.png)
 
 ### 3. Successful Device Enrollment
-![Successful Device Enrollment](Screenshots/03-successful-enrollment.png)
+![Successful Device Enrollment](02-Screenshots/03-successful-enrollment.png)
 
 ### 4. Android Work Profile Applications
-![Android Work Profile Applications](Screenshots/04-work-profile-apps.png)
+![Android Work Profile Applications](02-Screenshots/04-work-profile-apps.png)
 
 ## Result
 
