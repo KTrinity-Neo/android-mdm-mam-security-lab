@@ -19,18 +19,18 @@ The following information was identified as available through the ManageEngine d
 
 | Inventory Field | Device Information |
 |---|---|
-| Username | [Enter value] |
-| Device Name | [Enter value] |
-| Email | [Enter value] |
-| Device Type | [Enter value] |
-| Platform | [Enter value] |
-| OS Version | [Enter value] |
-| Device Model | [Enter value] |
-| Free Space (GB) | [Enter value] |
-| Carrier Setting Version | [Enter value] |
-| Management Type | [Enter value] |
-| Device Location Status | [Enter value] |
-| Last Connected Through | [Enter value] |
+| Username | Advanced Breed |
+| Device Name | Infinix Note 30 Pro |
+| Email | nsi*****@gmail |
+| Device Type | Smartphone |
+| Platform | Andriod |
+| OS Version | 14 |
+| Device Model | NOTE30 PRO |
+| Free Space (GB) | 29.89GB |
+| Carrier Setting Version | -- (Android devices don’t report this; it showed “--” in the dashboard) |
+| Management Type | Profile Owner (Work Profile) |
+| Device Location Status | Geo-Tracking is off by default(Not Tracked) |
+| Last Connected Through | Wifi |
 
 ## 4. Security Assessment
 
@@ -79,9 +79,9 @@ Mobile Device Management helps organisations:
 - [x] Passcode configuration profile created.
 - [x] Profile published.
 - [x] Device inventory fields identified.
-- [ ] Actual device inventory values documented.
-- [ ] Security assessment completed using actual device information.
-- [ ] Profile deployment independently verified.
+- [x] Actual device inventory values documented.
+- [x]  Security assessment completed using actual device information.
+- [x]  Profile deployment independently verified.
 
 ## 7. Conclusion
 
