@@ -47,7 +47,7 @@ Sensitive information, enrollment tokens, QR codes and personal identifiers will
 
 ## Project Status
 
-** Current Stage: MDM Environment Setup, Android Device Enrollment and Initial Security Configuration.
+Current Stage: MDM Environment Setup, Android Device Enrollment and Initial Security Configuration.
 
 
 
