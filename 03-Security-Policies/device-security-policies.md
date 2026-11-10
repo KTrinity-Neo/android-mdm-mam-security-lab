@@ -27,7 +27,7 @@ The following information was identified as available through the ManageEngine d
 | OS Version | 14 |
 | Device Model | NOTE30 PRO |
 | Free Space (GB) | 29.89GB |
-| Carrier Setting Version | -- (Android devices don’t report this; it showed “--” in the dashboard) |
+| Carrier Setting Version | Personally-owned work profile |
 | Management Type | Profile Owner (Work Profile) |
 | Device Location Status | Geo-Tracking is off by default(Not Tracked) |
 | Last Connected Through | Wifi |
