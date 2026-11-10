@@ -1,19 +1,92 @@
-# Mobile Security Policies
+# 📱 MDM Device Inventory and Security Assessment
 
-## Objective
-Explore how an administrator configures and enforces Android security policies.
+## 1. Project Overview
 
-## Planned Tests
-- Screen-lock policy
-- Password requirements
-- Device compliance
-- Work profile security
+This exercise focuses on identifying, reviewing, and assessing device information through the ManageEngine Mobile Device Management (MDM) platform.
 
-## Configuration
-Pending practical implementation.
+The objective is to understand how organisations monitor enrolled mobile devices, maintain device inventories, and assess their security posture.
 
-## Test Results
-Pending.
+## 2. Tools Used
 
-## Lessons Learned
-To be updated.
+- ManageEngine Mobile Device Manager Plus
+- ManageEngine MDM Self Service (Android)
+- Android smartphone (Infinix)
+- Web-based administration dashboard
+
+## 3. Device Inventory Information
+
+The following information was identified as available through the ManageEngine device inventory dashboard.
+
+| Inventory Field | Device Information |
+|---|---|
+| Username | [Enter value] |
+| Device Name | [Enter value] |
+| Email | [Enter value] |
+| Device Type | [Enter value] |
+| Platform | [Enter value] |
+| OS Version | [Enter value] |
+| Device Model | [Enter value] |
+| Free Space (GB) | [Enter value] |
+| Carrier Setting Version | [Enter value] |
+| Management Type | [Enter value] |
+| Device Location Status | [Enter value] |
+| Last Connected Through | [Enter value] |
+
+## 4. Security Assessment
+
+The inventory information provides useful insights into mobile device security and management.
+
+**A. Device Identification**
+
+Username, device name, email, and device model help administrators identify devices and associate them with their respective users.
+
+**B. Operating System Assessment**
+
+The platform and OS version help administrators determine whether devices are running supported operating systems and identify potential patching requirements.
+
+**C. Storage Monitoring**
+
+Available storage helps administrators monitor device capacity and identify potential storage-related operational issues.
+
+**D. Device Management**
+
+Management type helps administrators understand how a device is enrolled and managed within the organisation.
+
+**E. Connectivity Monitoring**
+
+Last connected through provides useful information about the device's most recent management communication.
+
+**F. Location Monitoring**
+
+Device location status helps administrators understand whether location reporting is available.
+
+## 5. Security Relevance
+
+Mobile Device Management helps organisations:
+
+- Maintain visibility over enrolled devices.
+- Monitor device operating systems.
+- Manage mobile security configurations.
+- Enforce organisational security policies.
+- Monitor device connectivity.
+- Improve endpoint security and compliance.
+
+## 6. Current Lab Progress
+
+- [x] ManageEngine environment configured.
+- [x] Android device enrolled.
+- [x] Device group created.
+- [x] Passcode configuration profile created.
+- [x] Profile published.
+- [x] Device inventory fields identified.
+- [ ] Actual device inventory values documented.
+- [ ] Security assessment completed using actual device information.
+- [ ] Profile deployment independently verified.
+
+## 7. Conclusion
+
+This exercise demonstrates how MDM platforms provide administrators with centralised visibility into enrolled mobile devices.
+
+Understanding device inventory information is an important part of endpoint security, asset management, and mobile device compliance.
+
+The next stage will involve examining device compliance, installed applications, and security policy enforcement.
